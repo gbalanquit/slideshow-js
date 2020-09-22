@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.slideshow {
+  width: 100%;
+}
+
+.img {
+  display: none;
+}
+
+.display {
+  display: block;
+}
